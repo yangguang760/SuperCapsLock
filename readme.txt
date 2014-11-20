@@ -9,3 +9,5 @@ Capslock+ h j k l  will do the left down up right (same as Vim)
 Capslodk + a c v s o will do the Ctrl + a c v s o;
 
 Capslock + m n will do the Window Maximum and Minimum;
+
+The next step is to add window/application check to ensure different scripts for different windows/application.
